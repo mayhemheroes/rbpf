@@ -1,0 +1,5 @@
+project: rbpf
+target: dumb
+
+cmds:
+  - cmd: /dumb

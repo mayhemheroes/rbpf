@@ -1,0 +1,5 @@
+project: rbpf
+target: smart-jit-diff
+
+cmds:
+  - cmd: /smart-jit-diff

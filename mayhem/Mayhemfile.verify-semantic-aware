@@ -1,0 +1,5 @@
+project: rbpf
+target: verify-semantic-aware
+
+cmds:
+  - cmd: /verify-semantic-aware
