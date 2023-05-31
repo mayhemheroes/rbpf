@@ -1,0 +1,5 @@
+project: rbpf
+target: smart
+
+cmds:
+  - cmd: /smart
